@@ -46,7 +46,7 @@ Developed two original web-based projects using modern frontend technologies.
 
 **File Converter & Sharer**  
 Tech Stack: React.js, Node.js, Express, MongoDB, Cloudinary  
-[View Project](#)
+[View Project](https://flex-share.vercel.app/)
 
 A full-stack web application to convert files (image ↔ image, PDF ↔ Word, vice-versa) and share them via expiring unique codes.
 - Integrated Cloudinary for secure, scalable file storage and conversion
@@ -59,18 +59,18 @@ A full-stack web application to convert files (image ↔ image, PDF ↔ Word, vi
 
 - **Hack with Mait 5.0** _(April 2024)_  
   Achieved **1st position** in a competitive hackathon by outperforming multiple teams. Key contributor to frontend development and project management.  
-  [Certificate](#)
+  [Certificate](https://drive.google.com/file/d/1GDLLSn7YkJfdWQY1005aSHyx2IlOLwXn/view?usp=drive_link)
 
 ---
 
 ## 📜 Certifications
 
 - **JavaScript Zero to Hero – GUVI (July 2024)**  
-  [Certificate](#)  
+  [Certificate](https://drive.google.com/file/d/1-z2MZv6HcPzeF4FcDqGix72yFaJCXh6z/view?usp=drive_link)  
   Focused on JavaScript fundamentals, ES6+, DOM manipulation, asynchronous programming.
 
 - **AI Agent Architect – IBM SkillsBuild (July 2025)**  
-  [Certificate](#)  
+  [Certificate](https://drive.google.com/file/d/11nhvAeg6bBQtPD7R-dUVxyxC2IBMFkPL/view?usp=drive_link)  
   Explored AI agents, intelligent systems, and agent-based applications.
 
 ---
