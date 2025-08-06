@@ -2,8 +2,6 @@
 
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/uttkarsh123-shiv) | [Portfolio](#)
 
-East Delhi, India • uttkarshsingh450@gmail.com • +91-95821 89958
-
 ---
 
 ## 🚀 About Me
