@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Uttkarsh Singh!
+# 👋 Hola, I'm Uttkarsh Singh!
 
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/uttkarsh123-shiv) | [Portfolio](#)
 
