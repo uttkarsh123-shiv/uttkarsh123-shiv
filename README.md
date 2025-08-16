@@ -29,17 +29,6 @@ CGPA: 7.942 / 10 (2022–2026)
 
 ---
 
-## 💼 Experience
-
-**Web Development Intern – Cantilever**  
-_Remote • July 2025 (2-month Internship)_  
-Developed two original web-based projects using modern frontend technologies.  
-- Responsive UI design  
-- Clean code practices  
-- GitHub-based Version control
-
----
-
 ## 🌟 Featured Project
 
 **File Converter & Sharer**  
