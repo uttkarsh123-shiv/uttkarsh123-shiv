@@ -1,10 +1,11 @@
 # 👋 Hola, I'm Uttkarsh Singh!
 
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/uttkarsh123-shiv) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/) | [Portfolio](#)
 
 ---
 
 ## 🚀 About Me
+
 
 I'm a self-motivated developer with a strong passion for continuous learning and building impactful digital solutions. I thrive in dynamic environments and love transforming ideas into meaningful user experiences. My approach to problem-solving combines creativity, precision, and a growth mindset.
 
