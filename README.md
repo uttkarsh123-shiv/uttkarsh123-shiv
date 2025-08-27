@@ -98,6 +98,9 @@ A full-stack web application to convert files (image ↔ image, PDF ↔ Word, vi
 ![Uttkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttkarshsingh&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarshsingh&layout=compact&theme=radical)  
 
+### LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Uttkarsh_2103?theme=dark&font=Source%20Code%20Pro&ext=heatmap)  
+
 ---
 
 > _“Adapts quickly to new challenges, thrives in dynamic environments, and believes in the power of creativity and precision.”_  
