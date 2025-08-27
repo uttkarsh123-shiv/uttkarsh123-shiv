@@ -2,7 +2,7 @@
 
 **Full Stack Developer | JavaScript & Java Enthusiast**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=uttkarshsingh&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=uttkarsh123-shiv&color=blue)
 
 ---
 
