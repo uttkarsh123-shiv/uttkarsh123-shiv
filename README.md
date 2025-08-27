@@ -48,45 +48,6 @@ My approach to problem-solving combines creativity, precision, and a growth mind
 ### Others  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)  ![Web Performance](https://img.shields.io/badge/Web%20Performance-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)  
 
-
----
-
-## 🎓 Education  
-
-**B.Tech in Computer Science & Engineering**  
-Maharaja Agrasen Institute of Technology, Delhi  
-**CGPA:** 7.942 / 10 (2022–2026)  
-
----
-
-## 🌟 Featured Project  
-
-### [📂 File Converter & Sharer](https://flex-share.vercel.app/)  
-**Tech Stack:** React.js, Node.js, Express, MongoDB, Cloudinary  
-
-A full-stack web application to convert files (image ↔ image, PDF ↔ Word, vice-versa) and share them via expiring unique codes.  
-- 🔒 Integrated Cloudinary for secure, scalable file storage and conversion  
-- ⏳ Implemented MongoDB TTL (Time-To-Live) indexes for automatic file/code expiration  
-- ⚡ Designed and consumed RESTful APIs for file handling and conversion logic  
-
----
-
-## 🏆 Achievements  
-
-- 🥇 **Hack with Mait 5.0** _(April 2024)_  
-  Achieved **1st position** in a competitive hackathon by outperforming multiple teams.  
-  [View Certificate](https://drive.google.com/file/d/1GDLLSn7YkJfdWQY1005aSHyx2IlOLwXn/view?usp=drive_link)  
-
----
-
-## 📜 Certifications  
-
-- **JavaScript Zero to Hero – GUVI (July 2024)**  
-  [View Certificate](https://drive.google.com/file/d/1-z2MZv6HcPzeF4FcDqGix72yFaJCXh6z/view?usp=drive_link)  
-
-- **AI Agent Architect – IBM SkillsBuild (July 2025)**  
-  [View Certificate](https://drive.google.com/file/d/11nhvAeg6bBQtPD7R-dUVxyxC2IBMFkPL/view?usp=drive_link)  
-
 ---
 
 ## 🌐 Languages  
