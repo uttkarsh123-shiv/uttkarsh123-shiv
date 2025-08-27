@@ -20,7 +20,7 @@ My approach to problem-solving combines creativity, precision, and a growth mind
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://byuttkarsh.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://leetcode.com/u/Uttkarsh_2103/)
+[![LeetCode](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Uttkarsh_2103/)
 
 
 ---
