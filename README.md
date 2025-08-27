@@ -16,6 +16,11 @@ My approach to problem-solving combines creativity, precision, and a growth mind
 
 ---
 
+### LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Uttkarsh_2103?theme=dark&font=Source%20Code%20Pro&ext=heatmap)  
+
+---
+
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://byuttkarsh.vercel.app/)  [![LeetCode](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Uttkarsh_2103/)
@@ -90,17 +95,5 @@ A full-stack web application to convert files (image ↔ image, PDF ↔ Word, vi
 - 🇬🇧 **English** (Professional proficiency)  
 - 🇪🇸 **Spanish** (Intermediate)  
 - 🇩🇪 **German** & 🇵🇹 **Portuguese** (Basic)  
-
----
-
-## 📊 GitHub Stats  
-
-![Uttkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttkarshsingh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarshsingh&layout=compact&theme=radical)  
-
-### LeetCode  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Uttkarsh_2103?theme=dark&font=Source%20Code%20Pro&ext=heatmap)  
-
----
 
 > _“Adapts quickly to new challenges, thrives in dynamic environments, and believes in the power of creativity and precision.”_  
