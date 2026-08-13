@@ -10,26 +10,23 @@
 
 ## 🎯 Featured Projects
 
-### 1. **FlexShare** 📁
+### 1. **FlexShare** 
 - **Description**: Modern file sharing platform with seamless collaboration features
 - **Tech Stack**: JavaScript, React, Node.js, Express
 - **Live Demo**: [flex-share.vercel.app](https://flex-share.vercel.app)
 - **Repository**: [github.com/uttkarsh123-shiv/FlexShare](https://github.com/uttkarsh123-shiv/FlexShare)
-- **Status**: 1 ⭐
 
-### 2. **SoundNest** 🎵
-- **Description**: Full-featured music streaming application with playlist management and user authentication
-- **Tech Stack**: TypeScript, Next.js, MongoDB, Node.js
-- **Live Demo**: [sound-nest-coral.vercel.app](https://sound-nest-coral.vercel.app)
-- **Repository**: [github.com/uttkarsh123-shiv/SoundNest](https://github.com/uttkarsh123-shiv/SoundNest)
-- **Status**: Recently updated (Apr 15, 2026)
+### 2. **FlowClip** 
+- **Description**:  Smart clipboard manager with semantic search and AI-powered organization
+- **Tech Stack**: JavaScript, Next.js, Convex, Chrome Extension
+- **Live Demo**: [https://flowclip-web.vercel.app/](https://flowclip-web.vercel.app/)
+- **Repository**: [github.com/uttkarsh123-shiv/FlowClip](https://github.com/uttkarsh123-shiv/FlowClip)
 
-### 3. **InvisiCrypt** 🔐
+### 3. **InvisiCrypt** 
 - **Description**: Secure file encryption & steganography platform for data protection
 - **Tech Stack**: EJS, Node.js, Express, MongoDB
 - **Live Demo**: [invisicrypt-bvnl.onrender.com](https://invisicrypt-vdgv.onrender.com/)
 - **Repository**: [github.com/uttkarsh123-shiv/InvisiCrypt](https://github.com/uttkarsh123-shiv/InvisiCrypt)
-- **Status**: 1 ⭐
 
 ---
 
@@ -75,20 +72,6 @@
 | 🧠 **170+ DSA Problems Solved** | Active on competitive coding platforms |
 | 🤖 **AI Agent Architect** | Specialized in AI/ML implementations |
 | 📊 **SQL Intermediate** | Advanced database design & optimization |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttkarsh123-shiv&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=uttkarsh123-shiv&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=uttkarsh123-shiv&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
