@@ -27,7 +27,7 @@
 ### 3. **InvisiCrypt** 🔐
 - **Description**: Secure file encryption & steganography platform for data protection
 - **Tech Stack**: EJS, Node.js, Express, MongoDB
-- **Live Demo**: [invisicrypt-bvnl.onrender.com](https://invisicrypt-bvnl.onrender.com/)
+- **Live Demo**: [invisicrypt-bvnl.onrender.com](https://invisicrypt-vdgv.onrender.com/)
 - **Repository**: [github.com/uttkarsh123-shiv/InvisiCrypt](https://github.com/uttkarsh123-shiv/InvisiCrypt)
 - **Status**: 1 ⭐
 
